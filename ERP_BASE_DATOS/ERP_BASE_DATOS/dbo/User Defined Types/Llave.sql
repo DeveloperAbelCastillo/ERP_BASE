@@ -1,0 +1,3 @@
+﻿CREATE TYPE [dbo].[Llave]
+    FROM NVARCHAR (50) NOT NULL;
+

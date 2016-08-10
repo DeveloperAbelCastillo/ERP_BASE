@@ -1,0 +1,3 @@
+﻿CREATE TYPE [dbo].[Descripcion4000]
+    FROM NVARCHAR (4000) NOT NULL;
+

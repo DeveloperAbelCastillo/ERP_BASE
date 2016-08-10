@@ -1,0 +1,3 @@
+﻿CREATE TYPE [dbo].[Usuario]
+    FROM VARBINARY (85) NOT NULL;
+

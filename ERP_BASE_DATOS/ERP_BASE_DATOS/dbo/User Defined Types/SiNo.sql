@@ -1,0 +1,3 @@
+﻿CREATE TYPE [dbo].[SiNo]
+    FROM BIT NOT NULL;
+

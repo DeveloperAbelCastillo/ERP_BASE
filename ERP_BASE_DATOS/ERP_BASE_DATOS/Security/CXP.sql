@@ -1,0 +1,3 @@
+﻿CREATE SCHEMA [CXP]
+    AUTHORIZATION [dbo];
+
